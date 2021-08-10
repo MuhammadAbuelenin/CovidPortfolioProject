@@ -6,7 +6,7 @@ https://ourworldindata.org/covid-deaths
 
 
 
-and here is my Tableau Project for Covid-19 status up to Aug-2021
+and here is my Tableau Project for Covid-19_Status up to Aug-2021
 
 ![Screenshot (1883)](https://user-images.githubusercontent.com/76665270/128912583-03a63d70-3976-4fdd-b523-3a766cf1afcb.png)
 
